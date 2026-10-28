@@ -5,7 +5,7 @@ Esta página web es un visualizador de datos acerca de
 la dispersión para el conjunto de datos de venta de coches
 
 1. Para ejecutar el programa es necesario tener instalado un editor de texto (VS Code) y un intérprete de Python, posterior a ello, se nececitan instalar
-   las librerias correspondientes (streamlit, pandas y plotly) desde la terminal del editor o desde el cdm de tu sistema operativo.
+   las librerias correspondientes (véase archivo "requirements.txt") desde la terminal del editor o desde el cdm de tu sistema operativo.
    Por ejemplo, una vez que se sitúe en la misma carpeta donde guardó su programa, el comando para instalar la libreria "streamlit" en Windows es:
    
    """
